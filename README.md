@@ -1,7 +1,7 @@
 <h1>Welcome to my Netflix Clone Page project! 🎉</h1>
 
 <h2>Introduction</h2>
-    <p>This project is a <a href = "https://aniketofficial540.github.io/Netflix-Clone/">Netflix Clone Page</a> created using HTML and CSS.</p>
+    <p>This project is a <a href = "[https://aniketofficial540.github.io/Netflix-Clone/](https://aniketofficial540.github.io/Netflix-Clone-Page/)">Netflix Clone Page</a> created using HTML and CSS.</p>
    
 <h2>Learning Focus</h2>
     <p>During the development of this project, I concentrated on mastering the media capabilities of CSS.</p>
